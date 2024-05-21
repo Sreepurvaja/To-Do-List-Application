@@ -1,2 +1,4 @@
 # To-Do-List-Application
-Backend Project
+Simple backend for a to-do list application.
+Implement CRUD (Create, Read, Update, Delete) operations for tasks.
+Use a RESTful API to handle task management.  
